@@ -9,7 +9,7 @@
 ```
 python3
 random
-t
+time
 ```
 
 
